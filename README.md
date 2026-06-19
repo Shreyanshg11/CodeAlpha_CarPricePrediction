@@ -142,5 +142,6 @@ jupyter notebook car_price_prediction.ipynb
 
 ## Author
 
-Shreyansh Gupta B.Tech (CSDS) 
+Shreyansh Gupta 
+B.Tech (CSDS) 
 Galgotias College of Engineering & Technology
